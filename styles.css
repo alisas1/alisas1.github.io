@@ -75,9 +75,5 @@ a:active {
   text-decoration: none;
 }
 
-@media (max-width: 600px) {
-    .milli  {
-        display:none;
-    }
-}
+
 
