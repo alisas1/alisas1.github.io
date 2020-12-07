@@ -76,7 +76,7 @@ a:active {
 }
 
 @media (max-width: 600px) {
-    #milli  {
+    .milli  {
         display:none;
     }
 }
