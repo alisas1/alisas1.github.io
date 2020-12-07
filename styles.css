@@ -33,7 +33,7 @@ body {
 }
 
 .form {
-  max-width: 100&;
+  max-width: 100%;
   height: auto;
 }
 
@@ -74,6 +74,3 @@ a:active {
   color: #967b60;
   text-decoration: none;
 }
-
-
-
