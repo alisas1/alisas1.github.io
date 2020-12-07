@@ -1,0 +1,79 @@
+body {
+  padding-bottom: 50px;
+  overflow-x: hidden;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #b19172;
+  color: #543619;
+  text-align: center;
+  padding: 10px;
+}
+
+.jumbotron {
+  background-color: beige;
+  background-image: url("https://i.imgur.com/xGnFHSP.jpg");
+  background-size: cover;
+}
+
+.milli {
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+}
+
+.casper {
+  border-radius: 50%;
+  max-width: 100%;
+  height: auto;
+}
+
+.form {
+  max-width: 100&;
+  height: auto;
+}
+
+.btn {
+  transition-duration: 1s;
+  background-color: white;
+  border-color: #b19172;
+  color: black;
+  padding: 3px;
+}
+
+.btn:hover {
+  background-color: #967b60; 
+  color: black;
+  border-color: #b19172;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #967b60;
+  text-decoration: none;
+  transition: 1s;
+}
+
+/* selected link */
+a:active {
+  color: #967b60;
+  text-decoration: none;
+}
+
+
+
